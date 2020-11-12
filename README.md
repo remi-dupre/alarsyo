@@ -1,3 +1,11 @@
+### Hi there, I'm Antoine!
+
+#### Projects I like to contribute to, when I have time
+
+- [Rust](https://github.com/rust-lang/rust)
+- [Doom Emacs](https://github.com/hlissner/doom-emacs)
+- [Onivim](https://github.com/onivim/oni2)
+
 ![Antoine's github stats](https://github-readme-stats.vercel.app/api?username=alarsyo&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alarsyo&hide=css,html&layout=compact)
 
